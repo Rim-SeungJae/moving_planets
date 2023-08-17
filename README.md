@@ -1,6 +1,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=OpenGL&logoColor=white"/>
 # moving_planets
 This repository is about the third assignment of SKKU's 2021 Introduction to Computer Graphics. This project further developed the [planet_in_space](https://github.com/dipreez/planet_in_space) to implement a solar system simulation program in which several spheres revolve around the sphere at the center.
+![cg3](https://github.com/dipreez/moving_planets/assets/50349104/4633503c-d321-4aeb-b087-6eba28c922cc)
 
 # Algorithms and data structures
 ## Sphere initialization
